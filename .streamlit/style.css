@@ -1,0 +1,22 @@
+/* Global background */
+.stApp {
+    background-color: #FFFFFF;
+}
+
+/* Headers and titles */
+h1, h2, h3, h4 {
+    color: #800000; /* Maroon */
+    font-weight: bold;
+}
+
+/* Buttons */
+button, .stButton>button {
+    background-color: #FF8C00 !important; /* Orange */
+    color: white !important;
+    border-radius: 8px !important;
+    border: none !important;
+}
+
+button:hover {
+    background-color: #b34700 !important;
+}
